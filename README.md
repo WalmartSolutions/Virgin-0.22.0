@@ -3,7 +3,7 @@
 **Trillium INC | https://discord.gg/vzXzFpv2gk**
 
 # Why?
-It is a horrible Francium/CW paste. Their auth is the same since their existence and they also skidded [Trillium Spy](https://github.com/3000IQPlay/Trillium/blob/main/src/main/java/dev/_3000IQPlay/trillium/TrilliumSpy.java) which is basically a sh1t from my old project.
+It's a horrible Francium/CW paste. Their auth didn't change and they also skidded [Trillium Spy](https://github.com/3000IQPlay/Trillium/blob/main/src/main/java/dev/_3000IQPlay/trillium/TrilliumSpy.java) which is basically a sh1t from my old project.
 
 **PS: RIP for the dev ->** <br> ![image](https://github.com/WS-External-Cloud/Readme-Assets/blob/main/virgin-depression.png?raw=true)
 
